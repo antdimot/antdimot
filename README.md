@@ -8,5 +8,6 @@ Project engineering, requirements management, design and system integration (tes
 Microservices design, database design, cloud based solution design (AWS and Azure), oop paradigm programming and design patterns, uml, C#, Asp.net, API design, html, css, javascript, Angularjs, React, Nodejs, Visual Studio, Sql Server, MongoDB, Mysql, Windows Server, OSX, GIT and Azure Devops.
 
 ## Get in touch
-- 🌐 https://www.linkedin.com/in/dimotta/
-- 🐤 https://twitter.com/dimotta
+- Linkedin  https://www.linkedin.com/in/dimotta/
+- Twitter   https://twitter.com/dimotta
+- DEV.to    https://dev.to/antdimot
