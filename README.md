@@ -1,7 +1,7 @@
 # Antonio Di Motta
 
 
-👋 Hi, I'm Antonio. I'm Technical Architect who like build and share stuffs about .net, cloud and devops.
+👋 Hi, I'm Antonio. I'm Technical Architect who like build and share stuffs about .net, docker and devops.
 
 ### Find me elsewhere 🌎
 
