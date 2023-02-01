@@ -1,7 +1,6 @@
 # Antonio Di Motta
 
-
-👋 Hi, I'm Antonio. Web addicted, passionate about Cloud, DevOps and running.
+👋 Hi, I'm Antonio.
 
 ### Find me elsewhere 🌎
 
